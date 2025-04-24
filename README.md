@@ -1,4 +1,4 @@
-# 💧 Smart Water Monitoring System
+# Water Monitoring System
 
 ## 📁 Folder Contents
 
